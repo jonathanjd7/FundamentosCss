@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: white;
+    margin: 0; /*con el margin y padding ocupa todo el espacio para que 
+    no aparezca esquinas blancas */
+    padding: 0;
+}
+header{background-color: #333;
+     text-align: center;
+    padding: 10px 0;
+    color: white;
+    }
+header a {color: white;
+    text-decoration: none;
+    margin: 0 15px;}
+header h1 {
+        font-size: 38px;
+        text-align: center;
+        color: blueviolet;
+    }
+a {color: red;}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+}
+p {
+    font-size: 18px;
+    color: #333;
+}
+
